@@ -38098,7 +38098,7 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 F.vb.prototype={
-R:function(a){return new S.nN(new F.nZ(null),"Web Company",X.UT(null,"Tajawal",C.ld,X.a_Z()),!1,null)}}
+R:function(a){return new S.nN(new F.nZ(null),"Mini CV",X.UT(null,"Tajawal",C.ld,X.a_Z()),!1,null)}}
 F.nZ.prototype={
 aS:function(){return new F.A4(C.r)}}
 F.A4.prototype={
