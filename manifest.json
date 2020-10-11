@@ -1,6 +1,6 @@
 {
-    "name": "webcompany",
-    "short_name": "webcompany",
+    "name": "Mini CV",
+    "short_name": "Mini CV",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
